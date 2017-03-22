@@ -11,6 +11,10 @@ GPIO12
 ```
 
 Execute via Console:
-`SwitchMode1 2`
-`SwitchTopic1 <device>-switch` (different than the actiual device/topic)
+```
+SwitchMode1 2
+SwitchTopic1 <device>-switch
+```
+
+different than the actiual device/topic name
 
