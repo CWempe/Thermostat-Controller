@@ -63,5 +63,5 @@ different than the actiual device/topic name
 
 
 
-[circuit_diagram]: Thermostat-Controller_Steckplatine.png "circuit drigram without button"
-[circuit_diagram_button]: Thermostat-Controller_Steckplatine_mit_Taster.png "circuit drigram with button"
+[circuit_diagram]: Thermostat-Controller_curcuit_diagram.png "circuit drigram without button"
+[circuit_diagram_button]: Thermostat-Controller_curcuit_diagram_with_button.png "circuit drigram with button"
