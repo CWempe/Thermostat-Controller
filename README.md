@@ -34,9 +34,22 @@ You can optionally integrate a button to change the current mode without switchi
   [Website[(https://www.maximintegrated.com/en/products/analog/sensors-and-sensor-interface/DS18B20.html)
   [Datasheet](https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf)
 
+## Photos
+
+### Thermostat
+
+*tbd*
+
+### timer clock
+
+![timer_clock]
+
+![timer_clock_connector]
+
+  
 ## Circiut Diagram
   
-![breakboard][breakboard]
+![breakboard]
   
 ## define a Switch
 
@@ -62,3 +75,5 @@ different than the actiual device/topic name
 
 
 [breakboard]: Fritzing/Thermostat-Controller_bb.png "breakboard view"
+[timer_clock]: photos/timer_clock.jpg
+[timer_clock_connector]: photos/timer_clocl_connector.jpg
