@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<module moduleId="DS2Y-5-DC5V_9b9e5f27512e8c317e87de4f8712194e_1" referenceFile="generic_ic_dip_8_300mil.fzp">
+<module referenceFile="generic_ic_dip_8_300mil.fzp" moduleId="DS2Y-5-DC5V_9b9e5f27512e8c317e87de4f8712194e_1">
  <version>4</version>
  <author>Christoph Wempe</author>
  <title>DS2Y-5-DC5V</title>
@@ -28,22 +28,22 @@ p, li { white-space: pre-wrap; }
 &lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Panasonic DS2Y-5-DC5V Relay with 2 form C contact&lt;/p>&lt;/body>&lt;/html></description>
  <views>
   <iconView>
-   <layers image="icon/DS2Y-5-DC5V_d5c03349bd491b6cb51c5173a05da755_6_icon.svg">
+   <layers image="icon/DS2Y-5-DC5V_701ed1f8e5bf061180262e8302e00af7_2_icon.svg">
     <layer layerId="icon"/>
    </layers>
   </iconView>
   <breadboardView>
-   <layers image="breadboard/DS2Y-5-DC5V_d5c03349bd491b6cb51c5173a05da755_6_breadboard.svg">
+   <layers image="breadboard/DS2Y-5-DC5V_701ed1f8e5bf061180262e8302e00af7_2_breadboard.svg">
     <layer layerId="breadboard"/>
    </layers>
   </breadboardView>
   <schematicView>
-   <layers image="schematic/DS2Y-5-DC5V_d5c03349bd491b6cb51c5173a05da755_6_schematic.svg">
+   <layers image="schematic/DS2Y-5-DC5V_701ed1f8e5bf061180262e8302e00af7_2_schematic.svg">
     <layer layerId="schematic"/>
    </layers>
   </schematicView>
   <pcbView>
-   <layers image="pcb/DS2Y-5-DC5V_d5c03349bd491b6cb51c5173a05da755_6_pcb.svg">
+   <layers image="pcb/DS2Y-5-DC5V_701ed1f8e5bf061180262e8302e00af7_2_pcb.svg">
     <layer layerId="silkscreen"/>
     <layer layerId="copper0"/>
     <layer layerId="copper1"/>
@@ -51,7 +51,7 @@ p, li { white-space: pre-wrap; }
   </pcbView>
  </views>
  <connectors>
-  <connector type="male" name="8 N.O." id="connector0">
+  <connector name="8 N.O." type="male" id="connector0">
    <description>8 N.O.</description>
    <views>
     <breadboardView>
@@ -66,7 +66,7 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector type="male" name="6 N.C." id="connector1">
+  <connector name="6 N.C." type="male" id="connector1">
    <description>6 N.C.</description>
    <views>
     <breadboardView>
@@ -81,7 +81,7 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector type="male" name="4 COM" id="connector2">
+  <connector name="4 COM" type="male" id="connector2">
    <description>4 COM</description>
    <views>
     <breadboardView>
@@ -96,7 +96,7 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector type="male" name="1 +" id="connector3">
+  <connector name="1 +" type="male" id="connector3">
    <description>1 +</description>
    <views>
     <breadboardView>
@@ -111,7 +111,7 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector type="male" name="16 -" id="connector4">
+  <connector name="16 -" type="male" id="connector4">
    <description>16 -</description>
    <views>
     <breadboardView>
@@ -126,7 +126,7 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector type="male" name="13 COM" id="connector5">
+  <connector name="13 COM" type="male" id="connector5">
    <description>13 COM</description>
    <views>
     <breadboardView>
@@ -141,7 +141,7 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector type="male" name="11 N.C." id="connector6">
+  <connector name="11 N.C." type="male" id="connector6">
    <description>11 N.C.</description>
    <views>
     <breadboardView>
@@ -156,7 +156,7 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector type="male" name="9 N.O." id="connector7">
+  <connector name="9 N.O." type="male" id="connector7">
    <description>9 N.O.</description>
    <views>
     <breadboardView>
