@@ -36,9 +36,7 @@ You can optionally integrate a button to change the current mode without switchi
 
 ## Circiut Diagram
   
-![circuit diagram][circuit_diagram]:
-  
-![circuit diagram with button][circuit_diagram_button]
+![breakboard][breakboard]
   
 ## define a Switch
 
@@ -63,5 +61,4 @@ different than the actiual device/topic name
 
 
 
-[circuit_diagram]: Thermostat-Controller_curcuit_diagram.png "circuit drigram without button"
-[circuit_diagram_button]: Thermostat-Controller_curcuit_diagram_with_button.png "circuit drigram with button"
+[breakboard]: Thermostat-Controller_bb.png "breakboard view"
