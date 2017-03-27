@@ -76,4 +76,4 @@ different than the actiual device/topic name
 
 [breakboard]: Fritzing/Thermostat-Controller_bb.png "breakboard view"
 [timer_clock]: photos/timer_clock.jpg
-[timer_clock_connector]: photos/timer_clocl_connector.jpg
+[timer_clock_connector]: photos/timer_clock_connector.jpg
