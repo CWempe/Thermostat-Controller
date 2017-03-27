@@ -61,4 +61,4 @@ different than the actiual device/topic name
 
 
 
-[breakboard]: Thermostat-Controller_bb.png "breakboard view"
+[breakboard]: Fritzing/Thermostat-Controller_bb.png "breakboard view"
