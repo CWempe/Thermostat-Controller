@@ -1,50 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <module referenceFile="generic_ic_dip_8_300mil.fzp" moduleId="SCW05B-05_99c60124c2ced1e984e14fc0bbdcc9ab_1">
  <version>4</version>
- <author>Fritzing Part-o-matic</author>
+ <author>Christoph Wempe</author>
  <title>SCW05B-05</title>
  <label>SCW05B-05</label>
- <date>Sa Mrz 25 2017</date>
+ <date>Mo Mrz 27 2017</date>
  <tags>
+  <tag>DC</tag>
+  <tag>Mean Well</tag>
   <tag>DIP</tag>
-  <tag>fritzing core</tag>
+  <tag>Converter</tag>
  </tags>
  <properties>
-  <property name="family">DC-DC Step-Down Converter</property>
+  <property name="family">DC-DC Converter</property>
   <property name="variant">variant 1</property>
-  <property name="layer"></property>
-  <property name="package">DIP (Dual Inline) [THT]</property>
   <property name="pin spacing">300mil</property>
   <property name="pins">8</property>
-  <property name="part number"></property>
   <property name="chip label">SCW05B-05</property>
-  <property name="hole size"></property>
   <property name="editable pin labels">false</property>
+  <property name="part number"></property>
+  <property name="layer"></property>
  </properties>
  <taxonomy>part.dip.8.pins</taxonomy>
  <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 &lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
 &lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Step-Down Converter 18-36V to 5V&lt;/p>&lt;/body>&lt;/html></description>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-family:'Verdana'; font-size:11px; color:#000000; background-color:#ffffff;">Mean Well SCW05B-05&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-family:'Verdana'; font-size:11px; color:#000000; background-color:#ffffff;">DC-DC Converter&lt;/span> 18-36V to 5V&lt;/p>&lt;/body>&lt;/html></description>
  <views>
   <iconView>
-   <layers image="icon/SCW05B-05_99c60124c2ced1e984e14fc0bbdcc9ab_3_icon.svg">
+   <layers image="icon/SCW05B-05_0f2737c410798b08815805a68cfe03c4_4_icon.svg">
     <layer layerId="icon"/>
    </layers>
   </iconView>
   <breadboardView>
-   <layers image="breadboard/SCW05B-05_99c60124c2ced1e984e14fc0bbdcc9ab_3_breadboard.svg">
+   <layers image="breadboard/SCW05B-05_0f2737c410798b08815805a68cfe03c4_4_breadboard.svg">
     <layer layerId="breadboard"/>
    </layers>
   </breadboardView>
   <schematicView>
-   <layers image="schematic/SCW05B-05_99c60124c2ced1e984e14fc0bbdcc9ab_3_schematic.svg">
+   <layers image="schematic/SCW05B-05_0f2737c410798b08815805a68cfe03c4_4_schematic.svg">
     <layer layerId="schematic"/>
    </layers>
   </schematicView>
   <pcbView>
-   <layers image="pcb/SCW05B-05_99c60124c2ced1e984e14fc0bbdcc9ab_3_pcb.svg">
+   <layers image="pcb/SCW05B-05_0f2737c410798b08815805a68cfe03c4_4_pcb.svg">
     <layer layerId="silkscreen"/>
     <layer layerId="copper0"/>
     <layer layerId="copper1"/>
@@ -52,14 +53,14 @@ p, li { white-space: pre-wrap; }
   </pcbView>
  </views>
  <connectors>
-  <connector id="connector0" name="Vin -" type="male">
+  <connector id="connector0" type="male" name="Vin -">
    <description>Vin -</description>
    <views>
     <breadboardView>
-     <p terminalId="connector0terminal" layer="breadboard" svgId="connector0pin"/>
+     <p layer="breadboard" terminalId="connector0terminal" svgId="connector0pin"/>
     </breadboardView>
     <schematicView>
-     <p terminalId="connector0terminal" layer="schematic" svgId="connector0pin"/>
+     <p layer="schematic" terminalId="connector0terminal" svgId="connector0pin"/>
     </schematicView>
     <pcbView>
      <p layer="copper0" svgId="connector0pin"/>
@@ -67,14 +68,14 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector id="connector1" name="NC" type="male">
-   <description>NC</description>
+  <connector id="connector1" type="male" name="Vin -">
+   <description>Vin -</description>
    <views>
     <breadboardView>
-     <p terminalId="connector1terminal" layer="breadboard" svgId="connector1pin"/>
+     <p layer="breadboard" terminalId="connector1terminal" svgId="connector1pin"/>
     </breadboardView>
     <schematicView>
-     <p terminalId="connector1terminal" layer="schematic" svgId="connector1pin"/>
+     <p layer="schematic" terminalId="connector1terminal" svgId="connector1pin"/>
     </schematicView>
     <pcbView>
      <p layer="copper0" svgId="connector1pin"/>
@@ -82,14 +83,14 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector id="connector2" name="NC" type="male">
-   <description>NC</description>
+  <connector id="connector2" type="male" name="Vin +">
+   <description>Vin +</description>
    <views>
     <breadboardView>
-     <p terminalId="connector2terminal" layer="breadboard" svgId="connector2pin"/>
+     <p layer="breadboard" terminalId="connector2terminal" svgId="connector2pin"/>
     </breadboardView>
     <schematicView>
-     <p terminalId="connector2terminal" layer="schematic" svgId="connector2pin"/>
+     <p layer="schematic" terminalId="connector2terminal" svgId="connector2pin"/>
     </schematicView>
     <pcbView>
      <p layer="copper0" svgId="connector2pin"/>
@@ -97,14 +98,14 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector id="connector3" name="NC" type="male">
-   <description>NC</description>
+  <connector id="connector3" type="male" name="Vin +">
+   <description>Vin +</description>
    <views>
     <breadboardView>
-     <p terminalId="connector3terminal" layer="breadboard" svgId="connector3pin"/>
+     <p layer="breadboard" terminalId="connector3terminal" svgId="connector3pin"/>
     </breadboardView>
     <schematicView>
-     <p terminalId="connector3terminal" layer="schematic" svgId="connector3pin"/>
+     <p layer="schematic" terminalId="connector3terminal" svgId="connector3pin"/>
     </schematicView>
     <pcbView>
      <p layer="copper0" svgId="connector3pin"/>
@@ -112,14 +113,14 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector id="connector4" name="Vout +" type="male">
-   <description>Vout +</description>
+  <connector id="connector4" type="male" name="NC">
+   <description>NC</description>
    <views>
     <breadboardView>
-     <p terminalId="connector4terminal" layer="breadboard" svgId="connector4pin"/>
+     <p layer="breadboard" terminalId="connector4terminal" svgId="connector4pin"/>
     </breadboardView>
     <schematicView>
-     <p terminalId="connector4terminal" layer="schematic" svgId="connector4pin"/>
+     <p layer="schematic" terminalId="connector4terminal" svgId="connector4pin"/>
     </schematicView>
     <pcbView>
      <p layer="copper0" svgId="connector4pin"/>
@@ -127,14 +128,14 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector id="connector5" name="NC" type="male">
+  <connector id="connector5" type="male" name="NC">
    <description>NC</description>
    <views>
     <breadboardView>
-     <p terminalId="connector5terminal" layer="breadboard" svgId="connector5pin"/>
+     <p layer="breadboard" terminalId="connector5terminal" svgId="connector5pin"/>
     </breadboardView>
     <schematicView>
-     <p terminalId="connector5terminal" layer="schematic" svgId="connector5pin"/>
+     <p layer="schematic" terminalId="connector5terminal" svgId="connector5pin"/>
     </schematicView>
     <pcbView>
      <p layer="copper0" svgId="connector5pin"/>
@@ -142,14 +143,14 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector id="connector6" name="GND" type="male">
-   <description>GND</description>
+  <connector id="connector6" type="male" name="Vout +">
+   <description>Vout +</description>
    <views>
     <breadboardView>
-     <p terminalId="connector6terminal" layer="breadboard" svgId="connector6pin"/>
+     <p layer="breadboard" terminalId="connector6terminal" svgId="connector6pin"/>
     </breadboardView>
     <schematicView>
-     <p terminalId="connector6terminal" layer="schematic" svgId="connector6pin"/>
+     <p layer="schematic" terminalId="connector6terminal" svgId="connector6pin"/>
     </schematicView>
     <pcbView>
      <p layer="copper0" svgId="connector6pin"/>
@@ -157,14 +158,14 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector id="connector7" name="Vin -" type="male">
-   <description>Vin -</description>
+  <connector id="connector7" type="male" name="GND">
+   <description>GND</description>
    <views>
     <breadboardView>
-     <p terminalId="connector7terminal" layer="breadboard" svgId="connector7pin"/>
+     <p layer="breadboard" terminalId="connector7terminal" svgId="connector7pin"/>
     </breadboardView>
     <schematicView>
-     <p terminalId="connector7terminal" layer="schematic" svgId="connector7pin"/>
+     <p layer="schematic" terminalId="connector7terminal" svgId="connector7pin"/>
     </schematicView>
     <pcbView>
      <p layer="copper0" svgId="connector7pin"/>
@@ -173,4 +174,5 @@ p, li { white-space: pre-wrap; }
    </views>
   </connector>
  </connectors>
+ <url>https://www.meanwell-web.com/en/product-info/dc-dc-converter/pcb/4-10-w/scw05/product/SCW05B-05</url>
 </module>
