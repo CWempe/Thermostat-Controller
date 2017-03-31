@@ -31,15 +31,15 @@ You can optionally integrate a button to change the current mode without switchi
   [Website](https://www.meanwell-web.com/en/product-info/dc-dc-converter/pcb/4-10-w/scw05/product/SCW05B-05)  
   [Datasheet](https://www.meanwell-web.com/en/download_datasheet.php?products_id=SCW05B-05&type=3)
 * **Temp sensor**: Dallas DS18B20  
-  [Website[(https://www.maximintegrated.com/en/products/analog/sensors-and-sensor-interface/DS18B20.html)
-  [Datasheet](https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf)
+  [Website](https://www.maximintegrated.com/en/products/analog/sensors-and-sensor-interface/DS18B20.html)  
+  [Datasheet](https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf)  
 * **molex SPOX™ Wire-to-Board Crimp Housing**  
-  2.50mm Pitch SPOX™ Wire-to-Board Crimp Housing, Friction Lock, 5 Circuits
-  [Website](http://www.molex.com/molex/products/datasheet.jsp?part=active/0050375053_CRIMP_HOUSINGS.xml&channel=Products&Lang=en-US)
-  [Datasheet](http://www.molex.com/webdocs/datasheets/pdf/en-us/0050375053_CRIMP_HOUSINGS.pdf)
+  2.50mm Pitch SPOX™ Wire-to-Board Crimp Housing, Friction Lock, 5 Circuits  
+  [Website](http://www.molex.com/molex/products/datasheet.jsp?part=active/0050375053_CRIMP_HOUSINGS.xml&channel=Products&Lang=en-US)  
+  [Datasheet](http://www.molex.com/webdocs/datasheets/pdf/en-us/0050375053_CRIMP_HOUSINGS.pdf)  
 * **molex SPOX™ BMI Connector System**  
-  2.50mm Pitch SPOX™ Crimp Terminal, 22-28 AWG, Bag
-  [Website](http://www.molex.com/molex/products/datasheet.jsp?part=active/0008701040_CRIMP_TERMINALS.xml&channel=Products&Lang=en-US)
+  2.50mm Pitch SPOX™ Crimp Terminal, 22-28 AWG, Bag  
+  [Website](http://www.molex.com/molex/products/datasheet.jsp?part=active/0008701040_CRIMP_TERMINALS.xml&channel=Products&Lang=en-US)  
   [Datasheet](http://www.molex.com/webdocs/datasheets/pdf/en-us/0008701040_CRIMP_TERMINALS.pdf)
   
 ## Photos
