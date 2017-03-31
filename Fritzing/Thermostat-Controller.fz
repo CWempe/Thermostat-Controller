@@ -4292,7 +4292,7 @@
             <title>Wire663</title>
             <views>
                 <breadboardView layer="breadboardWire">
-                    <geometry z="3.50018" x="171" y="-54" x1="0" y1="0" x2="-0.0591365" y2="45.0032" wireFlags="64"/>
+                    <geometry z="3.50018" x="171" y="-54" x1="0" y1="0" x2="-0.059273" y2="45.0032" wireFlags="64"/>
                     <wireExtras mils="22.2222" color="#fff800" opacity="1" banded="0"/>
                     <connectors>
                         <connector connectorId="connector1" layer="breadboardWire">
@@ -4956,7 +4956,7 @@
                         <connector connectorId="connector0" layer="breadboardWire">
                             <geometry x="0" y="0"/>
                             <connects>
-                                <connect connectorId="connector1" modelIndex="85441039" layer="breadboardWire"/>
+                                <connect connectorId="connector1" modelIndex="85440404" layer="breadboardWire"/>
                             </connects>
                         </connector>
                     </connectors>
@@ -4974,7 +4974,7 @@
                         <connector connectorId="connector0" layer="copper1trace">
                             <geometry x="0" y="0"/>
                             <connects>
-                                <connect connectorId="connector1" modelIndex="85441039" layer="copper1trace"/>
+                                <connect connectorId="connector1" modelIndex="85440404" layer="copper1trace"/>
                             </connects>
                         </connector>
                     </connectors>
@@ -4992,7 +4992,7 @@
                         <connector connectorId="connector0" layer="schematicTrace">
                             <geometry x="0" y="0"/>
                             <connects>
-                                <connect connectorId="connector1" modelIndex="85441039" layer="schematicTrace"/>
+                                <connect connectorId="connector1" modelIndex="85440404" layer="schematicTrace"/>
                             </connects>
                         </connector>
                     </connectors>
@@ -5003,13 +5003,13 @@
             <title>Wire963</title>
             <views>
                 <breadboardView layer="breadboardWire">
-                    <geometry z="3.50014" x="170.941" y="-8.9968" x1="0" y1="0" x2="35.9871" y2="-7.10125e-05" wireFlags="64"/>
+                    <geometry z="3.50014" x="170.941" y="-8.9968" x1="0" y1="0" x2="63.1883" y2="-0.0662642" wireFlags="64"/>
                     <wireExtras mils="22.2222" color="#fff800" opacity="1" banded="0"/>
                     <connectors>
                         <connector connectorId="connector1" layer="breadboardWire">
                             <geometry x="0" y="0"/>
                             <connects>
-                                <connect connectorId="connector0" modelIndex="85441039" layer="breadboardWire"/>
+                                <connect connectorId="connector0" modelIndex="85440389" layer="breadboardWire"/>
                             </connects>
                         </connector>
                         <connector connectorId="connector0" layer="breadboardWire">
@@ -5027,7 +5027,7 @@
                         <connector connectorId="connector1" layer="copper1trace">
                             <geometry x="0" y="0"/>
                             <connects>
-                                <connect connectorId="connector0" modelIndex="85441039" layer="copper1trace"/>
+                                <connect connectorId="connector0" modelIndex="85440389" layer="copper1trace"/>
                             </connects>
                         </connector>
                         <connector connectorId="connector0" layer="copper1trace">
@@ -5045,7 +5045,7 @@
                         <connector connectorId="connector1" layer="schematicTrace">
                             <geometry x="0" y="0"/>
                             <connects>
-                                <connect connectorId="connector0" modelIndex="85441039" layer="schematicTrace"/>
+                                <connect connectorId="connector0" modelIndex="85440389" layer="schematicTrace"/>
                             </connects>
                         </connector>
                         <connector connectorId="connector0" layer="schematicTrace">
@@ -5353,65 +5353,6 @@
                 </schematicView>
             </views>
         </instance>
-        <instance moduleIdRef="WireModuleID" modelIndex="85441039" path=":/resources/parts/core/wire.fzp">
-            <title>Wire1272</title>
-            <views>
-                <breadboardView layer="breadboardWire">
-                    <geometry z="3.50012" x="206.928" y="-8.99687" x1="0" y1="0" x2="27.2012" y2="-0.0661932" wireFlags="64"/>
-                    <wireExtras mils="22.2222" color="#fff800" opacity="1" banded="0"/>
-                    <connectors>
-                        <connector connectorId="connector1" layer="breadboardWire">
-                            <geometry x="0" y="0"/>
-                            <connects>
-                                <connect connectorId="connector0" modelIndex="85440389" layer="breadboardWire"/>
-                            </connects>
-                        </connector>
-                        <connector connectorId="connector0" layer="breadboardWire">
-                            <geometry x="0" y="0"/>
-                            <connects>
-                                <connect connectorId="connector1" modelIndex="85440404" layer="breadboardWire"/>
-                            </connects>
-                        </connector>
-                    </connectors>
-                </breadboardView>
-                <pcbView layer="copper1trace">
-                    <geometry z="9.50023" x="185.414" y="-2.73818" x1="0" y1="0" x2="39.508" y2="74.7131" wireFlags="64"/>
-                    <wireExtras mils="11.1111" color="#f2c600" opacity="1" banded="0"/>
-                    <connectors>
-                        <connector connectorId="connector1" layer="copper1trace">
-                            <geometry x="0" y="0"/>
-                            <connects>
-                                <connect connectorId="connector0" modelIndex="85440389" layer="copper1trace"/>
-                            </connects>
-                        </connector>
-                        <connector connectorId="connector0" layer="copper1trace">
-                            <geometry x="0" y="0"/>
-                            <connects>
-                                <connect connectorId="connector1" modelIndex="85440404" layer="copper1trace"/>
-                            </connects>
-                        </connector>
-                    </connectors>
-                </pcbView>
-                <schematicView layer="schematicTrace">
-                    <geometry z="5.50024" x="185.414" y="-2.73818" x1="0" y1="0" x2="39.508" y2="74.7131" wireFlags="64"/>
-                    <wireExtras mils="9.7222" color="#404040" opacity="1" banded="0"/>
-                    <connectors>
-                        <connector connectorId="connector1" layer="schematicTrace">
-                            <geometry x="0" y="0"/>
-                            <connects>
-                                <connect connectorId="connector0" modelIndex="85440389" layer="schematicTrace"/>
-                            </connects>
-                        </connector>
-                        <connector connectorId="connector0" layer="schematicTrace">
-                            <geometry x="0" y="0"/>
-                            <connects>
-                                <connect connectorId="connector1" modelIndex="85440404" layer="schematicTrace"/>
-                            </connects>
-                        </connector>
-                    </connectors>
-                </schematicView>
-            </views>
-        </instance>
         <instance moduleIdRef="WireModuleID" modelIndex="85441053" path=":/resources/parts/core/wire.fzp">
             <title>Wire1279</title>
             <views>
@@ -5518,8 +5459,11 @@
                     </connectors>
                 </breadboardView>
                 <pcbView layer="copper0">
-                    <geometry z="5.50003" x="148.973" y="-154.088"/>
-                    <titleGeometry visible="true" x="161.573" y="-161.088" z="13.0007" xOffset="12.6" yOffset="-7" textColor="#000000" fontSize="5">
+                    <geometry z="5.50003" x="164.7" y="-114.3">
+                        <transform m11="0" m12="1" m13="0" m21="-1" m22="0" m23="0" m31="30.6" m32="18" m33="1"/>
+                    </geometry>
+                    <titleGeometry visible="true" x="194.3" y="-82.7" z="13.0007" xOffset="29.6" yOffset="31.6" textColor="#000000" fontSize="5">
+                        <transform m11="0" m12="1" m13="0" m21="-1" m22="0" m23="0" m31="8" m32="-1" m33="1"/>
                         <displayKey key=""/>
                     </titleGeometry>
                     <connectors>
@@ -5827,8 +5771,8 @@
                     </connectors>
                 </breadboardView>
                 <pcbView layer="copper0">
-                    <geometry z="5.50008" x="120.6" y="165.6"/>
-                    <titleGeometry visible="true" x="198.165" y="158.6" z="13.0007" xOffset="77.5655" yOffset="-7" textColor="#000000" fontSize="5">
+                    <geometry z="5.50008" x="211.417" y="81.7751"/>
+                    <titleGeometry visible="true" x="288.983" y="74.7751" z="13.0007" xOffset="77.5655" yOffset="-7" textColor="#000000" fontSize="5">
                         <displayKey key=""/>
                     </titleGeometry>
                     <connectors>
