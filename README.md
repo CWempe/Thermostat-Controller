@@ -17,8 +17,8 @@ Best of all: Your thermostat will not be managed and you can still change to day
 ## How does it work
 
 You will replace the internal timer clock with an Arduino (esp8266) to switch between day and night mode.  
-The Arduino will be connected via WiFi and communiacates via [mqtt](http://mqtt.org/) with your msart home (e.g. [openHAB](http://www.openhab.org/)).  
-You can optionally integrate a button to change the current mode without switching to manual mode on the thermostat. But this may require damaging the original case.
+The Arduino will be connected via WiFi and communiacates via [mqtt](http://mqtt.org/) with your smart home (e.g. [openHAB](http://www.openhab.org/)).  
+You can optionally integrate a button to change the current mode without switching to manual mode on the thermostat. But this may require damaging the original case if want it to look good.
 
 ## What you need
 
