@@ -24,7 +24,7 @@ You can optionally integrate a button to change the current mode without switchi
 
 
 * **Arduino**: Wemos D1 mini (pro) 
-  [Website](https://www.wemos.cc/product/d1-mini-pro.html)
+  [Website](https://www.wemos.cc/product/d1-mini-pro.html)  
 * **Relay**: Panasonic DS2Y-5-DC5V  
   [Datasheet](https://www3.panasonic.biz/ac/e_download/control/relay/signal/catalog/mech_eng_ds2y.pdf)
 * **DC-DC Converter**: Mean Well SCW05B-05  
