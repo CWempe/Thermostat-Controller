@@ -3,7 +3,8 @@
 This Projekt improves the **Junkers TRQ 21 T** Thermostat with the following features:
 
 * mute the ticking clock  
-  By disconnecting the timer clock from the thermostat the clock will stop ticking eventually
+  By disconnecting the timer clock from the thermostat the clock will stop ticking eventually  
+  (might take a few weeks before the battery dies)
 * support weekends  
   The default timer clock does not differenciate between work days and weekends  
   By controlling the thermostat with your smart home, you can define every timer rule you want
@@ -33,11 +34,12 @@ You can optionally integrate a button to change the current mode without switchi
 * **Temp sensor**: Dallas DS18B20  
   [Website](https://www.maximintegrated.com/en/products/analog/sensors-and-sensor-interface/DS18B20.html)  
   [Datasheet](https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf)  
-* **molex SPOX™ Wire-to-Board Crimp Housing**  
+* **Wire-to-Board connector**  
+ *  molex SPOX™ Wire-to-Board Crimp Housing  
   2.50mm Pitch SPOX™ Wire-to-Board Crimp Housing, Friction Lock, 5 Circuits  
   [Website](http://www.molex.com/molex/products/datasheet.jsp?part=active/0050375053_CRIMP_HOUSINGS.xml&channel=Products&Lang=en-US)  
   [Datasheet](http://www.molex.com/webdocs/datasheets/pdf/en-us/0050375053_CRIMP_HOUSINGS.pdf)  
-* **molex SPOX™ BMI Connector System**  
+ * molex SPOX™ BMI Connector System (5x)  
   2.50mm Pitch SPOX™ Crimp Terminal, 22-28 AWG, Bag  
   [Website](http://www.molex.com/molex/products/datasheet.jsp?part=active/0008701040_CRIMP_TERMINALS.xml&channel=Products&Lang=en-US)  
   [Datasheet](http://www.molex.com/webdocs/datasheets/pdf/en-us/0008701040_CRIMP_TERMINALS.pdf)
@@ -80,8 +82,21 @@ SwitchTopic1 <device>-switch
 different than the actiual device/topic name
 
 
+## configure openhab
 
+You can find some example configuration files in the openhab folder.
+
+You basicly need an item for the relay and an item for the temperature sensor.
+To make use of some smart automation rules and manual override you might want to configure some virtual items.
+If you have any windows or door contacts connected to your smart home you also might want to turn the thermostat off while you let some fresh air in.
+
+You can also use a transformation file to display more accurate terms than "ON" and "OFF" for day and night mode.
+
+Finally I renamed some openhab2 classic icons to thermostat*.png/svg.
+
+![openhab_screenshot]
 
 [breakboard]: Fritzing/Thermostat-Controller_bb.png "breakboard view"
 [timer_clock]: photos/timer_clock.jpg
 [timer_clock_connector]: photos/timer_clock_connector.jpg
+[openhab_screenshot]: photos/openhab_screenshot_thermostat.png
