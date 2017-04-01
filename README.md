@@ -48,7 +48,7 @@ You can optionally integrate a button to change the current mode without switchi
 
 ### Thermostat
 
-*tbd*
+![thermostat]
 
 ### timer clock
 
@@ -97,6 +97,7 @@ Finally I renamed some openhab2 classic icons to thermostat*.png/svg.
 ![openhab_screenshot]
 
 [breakboard]: Fritzing/Thermostat-Controller_bb.png "breakboard view"
+[thermostat]: photos/Junkers_TRQ21_Thermostat.jpg
 [timer_clock]: photos/timer_clock.jpg
 [timer_clock_connector]: photos/timer_clock_connector.jpg
 [openhab_screenshot]: photos/openhab_screenshot_thermostat.png
