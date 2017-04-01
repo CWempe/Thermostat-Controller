@@ -1,0 +1,131 @@
+// This file will be used to control the modes (day and night) of the thermostat
+// help: http://www.cronmaker.com/
+
+// ################ Therm_Target #############
+
+rule therm_target_on
+when
+    Item Therm_Target changed to ON
+then
+    if ( Therm_Manual.state == "AUTO" && Window_Bath.state == CLOSED ) {
+        logInfo("Therm_Target", "Set Wemos01_Relay1 to ON")
+        sendCommand(Wemos01_Relay1, ON)
+    }
+end
+
+rule therm_target_off
+when
+    Item Therm_Target changed to OFF
+then
+    if ( Therm_Manual.state == "AUTO") {
+        logInfo("Therm_Target", "Set Wemos01_Relay1 to OFF")
+        sendCommand(Wemos01_Relay1, OFF)
+    }
+end
+
+
+// ################ Window #############
+
+rule therm_window_open
+when
+    Item Window_Bath changed to OPEN
+then
+    logInfo("Therm_Window", "Window_Bath is open")
+    if ( Therm_Manual.state == "AUTO" ) {
+        logInfo("Therm_Window", "Set Wemos01_Relay1 to OFF")
+        sendCommand(Wemos01_Relay1, OFF)
+    }
+end
+
+rule therm_window_closed
+when
+    Item Window_Bath changed to CLOSED
+then
+    logInfo("Therm_Window", "Window_Bath is closed")
+    if ( Therm_Manual.state == "AUTO" ) {
+        logInfo("Therm_Window", "Set Wemos01_Relay1 to " + Therm_Target.state)
+        sendCommand(Wemos01_Relay1, Therm_Target.state)
+    }
+    if ( Therm_Manual.state == "ON" ) {
+        logInfo("Therm_Window", "Set Wemos01_Relay1 to ON")
+        sendCommand(Wemos01_Relay1, ON)
+    }
+    if ( Therm_Manual.state == "OFF" ) {
+        logInfo("Therm_Window", "Set Wemos01_Relay1 to OFF")
+        sendCommand(Wemos01_Relay1, OFF)
+    }
+end
+
+
+// ################ Therm_Manual #############
+
+rule therm_manual_auto
+when
+    Item Therm_Manual changed to "AUTO"
+then
+    logInfo("Therm_Manual", "Set Wemos01_Relay1 to " + Therm_Target.state)
+    sendCommand(Wemos01_Relay1, Therm_Target.state)
+end
+
+rule therm_manual_day
+when
+    Item Therm_Manual changed to "ON"
+then
+    logInfo("Therm_Manual", "Set Wemos01_Relay1 to ON")
+    sendCommand(Wemos01_Relay1, ON)
+end
+
+rule therm_manual_night
+when
+    Item Therm_Manual changed to "OFF"
+then
+    logInfo("Therm_Manual", "Set Wemos01_Relay1 to OFF")
+    sendCommand(Wemos01_Relay1, OFF)
+end
+
+
+// ################ Therm_Target #############
+
+// ###################
+//  Morning and Night
+// ###################
+
+rule therm_day_mode
+when
+    Time cron "0 0 6 ? * MON,TUE,WED,THU,FRI *" or 
+    Time cron "0 0 10 ? * SAT,SUN *"
+then
+    logInfo("Thermostat", "Set Target mode for thermostat to ON (morning)")
+    sendCommand(Therm_Target, ON)
+end
+
+
+rule therm_night_mode
+when
+    Time cron "0 5 0 ? * MON,TUE,WED,THU,SUN *" or 
+    Time cron "0 0 2 ? * FRI,SAT *"
+then
+    logInfo("Thermostat", "Set Target mode for thermostat to OFF (night)")
+    sendCommand(Therm_Target, OFF)
+end
+
+
+// ###################
+//        Work
+// ###################
+
+rule therm_work_start
+when
+    Time cron "0 30 8 ? * MON,TUE,WED,THU,FRI *"
+then
+    logInfo("Thermostat", "Set Target mode for thermostat to OFF (work).")
+    sendCommand(Therm_Target, OFF)
+end
+
+rule therm_work_end
+when
+    Time cron "0 30 16 ? * MON,TUE,WED,THU,FRI *"
+then
+    logInfo("Thermostat", "Set Target mode for thermostat to ON (work).")
+    sendCommand(Therm_Target, ON)
+end

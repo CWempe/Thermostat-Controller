@@ -1,0 +1,9 @@
+// Target Mode (defined by rules based on time of day
+Switch  Therm_Target  "Zielmodus [MAP(thermostat_de.map):%s]" <thermostat>
+// manual override
+String  Therm_Manual  "Modus überschrieben" <thermostat>
+// actual current mode
+Switch  Therm_Mode    "tatsächl. Modus [MAP(thermostat_de.map):%s]"  <thermostat>  { mqtt=">[openhab:cmnd/wemos01/power:command:*:default], <[openhab:stat/wemos01/POWER:state:default]" }
+// temerature or sensor in thermostat
+Number  Therm_Temp    "Temperatur [%.2f °C]" <temperature> { mqtt="<[openhab:tele/wemos01/SENSOR:state:JSONPATH($.DS18B20.Temperature)]" }
+

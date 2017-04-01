@@ -1,0 +1,12 @@
+sitemap thermostat label="Thermostat"
+{
+    Frame label="Thermostat" {
+        Text        item=Therm_Mode
+        Text        item=Therm_Target
+//        Show Therm_Target to be able to change state manually for testing
+//        Switch      item=Therm_Target
+        Selection   item=Therm_Manual mappings=[AUTO="automatisch", ON="Tag", OFF="Nacht"]
+        Text        item=Window_Bath
+        Text        item=Therm_Temp
+    }
+}
