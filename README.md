@@ -61,26 +61,6 @@ You can optionally integrate a button to change the current mode without switchi
   
 ![breakboard]
   
-## define a Switch
-
-Not all GPIOs work for switches.
-successfully tested:
-
-```
-GPIO1
-GPIO3
-GPIO4
-GPIO12
-```
-
-Execute via Web-Console:
-```
-SwitchMode1 2
-SwitchTopic1 <device>-switch
-```
-
-different than the actiual device/topic name
-
 
 ## configure openhab
 
