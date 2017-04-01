@@ -1,16 +1,16 @@
 # Thermostat-Controller
 
-This Projekt improves the **Junkers TRQ 21 T** Thermostat with the following features:
+This Project improves the **Junkers TRQ 21 T** Thermostat with the following features:
 
 * mute the ticking clock  
   By disconnecting the timer clock from the thermostat the clock will stop ticking eventually  
   (might take a few weeks before the battery dies)
 * support weekends  
-  The default timer clock does not differenciate between work days and weekends  
+  The default timer clock does not differentiate between work days and weekends  
   By controlling the thermostat with your smart home, you can define every timer rule you want
-* support presents detection and geolocation  
-  If your smart home supports it, your thermastat will do too now
-* support disableing when windows ar eopen  
+* support presence detection and geo location  
+  If your smart home supports it, your thermostat will do too now
+* support disabling when windows are open  
   If your smart home supports it, ...
 
 Best of all: Your thermostat will not be managed and you can still change to day and night mode manually like before.
@@ -18,7 +18,7 @@ Best of all: Your thermostat will not be managed and you can still change to day
 ## How does it work
 
 You will replace the internal timer clock with an Arduino (esp8266) to switch between day and night mode.  
-The Arduino will be connected via WiFi and communiacates via [mqtt](http://mqtt.org/) with your smart home (e.g. [openHAB](http://www.openhab.org/)).  
+The Arduino will be connected via WiFi and communicates via [mqtt](http://mqtt.org/) with your smart home (e.g. [openHAB](http://www.openhab.org/)).  
 You can optionally integrate a button to change the current mode without switching to manual mode on the thermostat. But this may require damaging the original case if want it to look good.
 
 ## What you need
@@ -86,7 +86,7 @@ different than the actiual device/topic name
 
 You can find some example configuration files in the openhab folder.
 
-You basicly need an item for the relay and an item for the temperature sensor.
+You basically need an item for the relay and an item for the temperature sensor.
 To make use of some smart automation rules and manual override you might want to configure some virtual items.
 If you have any windows or door contacts connected to your smart home you also might want to turn the thermostat off while you let some fresh air in.
 
