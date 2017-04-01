@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" y="0px" version="1.1" x="0px" id="Layer_1" gorn="0" viewBox="0 0 77.56546 120.84972" width="77.56546" enable-background="new 0 0 30.24 30.24" xmlns:xml="http://www.w3.org/XML/1998/namespace" height="120.84972"  xml:space="preserve">
+    <desc >
+        <referenceFile >SCW05B-05_pcb.svg</referenceFile>
+    </desc>
+    <metadata id="metadata31" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs29" />
+    <g transform="translate(18.857802,54.517296)" >
+        <g >
+            <g >
+                <g id="copper0" gorn="0.3.0.0.0" >
+                    <g id="copper1" gorn="0.3.0.0.0.0" >
+                        <circle stroke-width="1.15199995" id="connector0pin" gorn="0.3.0.0.0.0.0" stroke="#ffbf00" fill="none" r="1.584" cy="-37.292435" cx="-8.8750725" />
+                        <circle stroke-width="1.15199995" id="connector1pin" gorn="0.3.0.0.0.0.1" stroke="#ffbf00" fill="none" r="1.584" cy="-27.692436" cx="-8.8750725" />
+                        <circle stroke-width="1.15199995" id="connector2pin" gorn="0.3.0.0.0.0.2" stroke="#ffbf00" fill="none" r="1.584" cy="-27.692436" cx="48.72493" />
+                        <circle stroke-width="1.15199995" id="connector3pin" gorn="0.3.0.0.0.0.3" stroke="#ffbf00" fill="none" r="1.584" cy="-37.292435" cx="48.724926" style="display:inline;" />
+                        <circle stroke-width="1.15199995" id="connector4pin" gorn="0.3.0.0.0.0.4" stroke="#ffbf00" fill="none" r="1.584" cy="29.907564" cx="-8.8750725" />
+                        <circle stroke-width="1.15199995" id="connector5pin" gorn="0.3.0.0.0.0.5" stroke="#ffbf00" fill="none" r="1.584" cy="49.107563" cx="-8.8750725" />
+                        <circle stroke-width="1.15199995" id="connector6pin" gorn="0.3.0.0.0.0.6" stroke="#ffbf00" fill="none" r="1.584" cy="49.107563" cx="48.724926" />
+                        <circle stroke-width="1.15199995" id="connector7pin" gorn="0.3.0.0.0.0.7" stroke="#ffbf00" fill="none" r="1.584" cy="29.907564" cx="48.72493" />
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0.04546547,90.717358)" >
+        <g >
+            <g >
+                <g id="silkscreen" gorn="0.4.0.0.0" >
+                    <line stroke-width="1.530931" id="line2" y1="-90.479996" gorn="0.4.0.0.0.0" x2="0.72000003" stroke="#ffffff" x1="0.72000003" fill="none"  y2="29.52"/>
+                    <line stroke-width="1.22472358" id="line4" y1="29.52" gorn="0.4.0.0.0.1" x2="77.519997" stroke="#ffffff" x1="0.72000003" fill="none"  y2="29.52"/>
+                    <line stroke-width="1.530931" id="line6" y1="29.52" gorn="0.4.0.0.0.2" x2="76.754532" stroke="#ffffff" x1="76.754532" fill="none"  y2="-90.479996"/>
+                    <line stroke-width="1.22472358" id="line8" y1="-90.104996" gorn="0.4.0.0.0.3" x2="29.519001" stroke="#ffffff" x1="0.72000003" fill="none"  y2="-90.104996"/>
+                    <line stroke-width="1.22472358" id="line10" y1="-90.104996" gorn="0.4.0.0.0.4" x2="77.519997" stroke="#ffffff" x1="48.71833" fill="none"  y2="-90.104996"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

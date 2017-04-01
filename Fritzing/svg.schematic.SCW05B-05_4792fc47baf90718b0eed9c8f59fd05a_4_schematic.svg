@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" y="0in" version="1.2" x="0in" id="svg64" gorn="0" viewBox="0 0 1204.9996 1250" width="1.2049997in" height="1.25in" style="enable-background:new" >
+    <metadata id="metadata70" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs68" />
+    <desc id="desc2" >
+        <referenceFile >generic_ic_dip_8_schem.svg</referenceFile>
+    </desc>
+    <rect y="14.3905" x="214.45981" stroke-width="28.78100014" id="rect4" gorn="0.3" stroke="#000000" width="771.21899" fill="none" height="1221.219" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <g id="label" gorn="0.4" stroke="none" font-size="83.33333588" fill="#000000" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;" >
+        <text y="654.76477" x="596.04102" id="tspan4605" gorn="0.4.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:83.33333588;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" >SCW05B-05</text>
+    </g>
+    <g transform="translate(100.13851,2077.8382)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g id="layer2" gorn="0.5.0.0.0.0.0" style="display:inline" />
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(100.13851,2077.8382)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g id="layer3" gorn="0.6.0.0.0.0.0" style="display:inline" />
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(100.13851,2077.8382)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g id="layer1" gorn="0.7.0.0.0.0.0" style="display:inline" >
+                            <line stroke-width="9.72220039" id="connector0pin" y1="-1852.8383" gorn="0.7.0.0.0.0.0.0" x2="99.930763" stroke="#787878" x1="-95.208176" fill="none" style="stroke-linecap:round;stroke-linejoin:round"  y2="-1852.8383"/>
+                            <g id="label0" gorn="0.7.0.0.0.0.0.1" stroke="none" font-size="69.44444275" fill="#8c8c8c" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;" >
+                                <text y="-1827.6952" x="185.88736" id="tspan4919" gorn="0.7.0.0.0.0.0.1.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.44444275;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" >2</text>
+                            </g>
+                            <g stroke-width="0" id="text12" gorn="0.7.0.0.0.0.0.2" stroke="none" class="text" font-size="69.44444275" fill="#8c8c8c" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;" >
+                                <text y="-1781.2714" x="3.751538" id="tspan4597" gorn="0.7.0.0.0.0.0.2.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.44444275;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" >Vin -</text>
+                            </g>
+                            <line stroke-width="9.72220039" id="connector1pin" y1="-1752.8383" gorn="0.7.0.0.0.0.0.3" x2="99.930763" stroke="#787878" x1="-95.208176" fill="none" style="display:inline;stroke-linecap:round;stroke-linejoin:round"  y2="-1752.8383"/>
+                            <g id="label1" gorn="0.7.0.0.0.0.0.4" stroke="none" font-size="69.44444275" fill="#8c8c8c" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;" >
+                                <text y="-1728.0343" x="185.88736" id="tspan4915" gorn="0.7.0.0.0.0.0.4.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.44444275;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" >3</text>
+                            </g>
+                            <line stroke-width="9.72220039" id="connector4pin" y1="-1152.8383" gorn="0.7.0.0.0.0.0.5" x2="99.930763" stroke="#787878" x1="-95.208176" fill="none" style="stroke-linecap:round;stroke-linejoin:round"  y2="-1152.8383"/>
+                            <g id="label2" gorn="0.7.0.0.0.0.0.6" stroke="none" font-size="69.44444275" fill="#8c8c8c" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;" >
+                                <text y="-1128.0343" x="185.88736" id="tspan4905" gorn="0.7.0.0.0.0.0.6.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.44444275;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" >9</text>
+                            </g>
+                            <line stroke-width="9.72220039" id="connector5pin" y1="-952.83826" gorn="0.7.0.0.0.0.0.7" x2="99.930763" stroke="#787878" x1="-95.208176" fill="none" style="stroke-linecap:round;stroke-linejoin:round"  y2="-952.83826"/>
+                            <g id="label3" gorn="0.7.0.0.0.0.0.8" stroke="none" font-size="69.44444275" fill="#8c8c8c" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;" >
+                                <text y="-928.05121" x="185.88736" id="tspan4624" gorn="0.7.0.0.0.0.0.8.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.44444275;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" >11</text>
+                            </g>
+                            <line stroke-width="9.72220039" id="connector2pin" y1="-1852.8383" gorn="0.7.0.0.0.0.0.9" x2="1099.9308" stroke="#787878" x1="899.93079" fill="none" style="stroke-linecap:round;stroke-linejoin:round"  y2="-1852.8383"/>
+                            <g id="label7" gorn="0.7.0.0.0.0.0.10" stroke="none" font-size="69.44444275" fill="#8c8c8c" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;" >
+                                <text y="-1828.0343" x="804.3576" id="tspan4921" gorn="0.7.0.0.0.0.0.10.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.44444275;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" >23</text>
+                            </g>
+                            <line stroke-width="9.72220039" id="connector3pin" y1="-1752.8383" gorn="0.7.0.0.0.0.0.11" x2="1099.9308" stroke="#787878" x1="899.93079" fill="none" style="stroke-linecap:round;stroke-linejoin:round"  y2="-1752.8383"/>
+                            <g id="label6" gorn="0.7.0.0.0.0.0.12" stroke="none" font-size="69.44444275" fill="#8c8c8c" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;" >
+                                <text y="-1727.6952" x="809.3894" id="tspan4913" gorn="0.7.0.0.0.0.0.12.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.44444275;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" >22</text>
+                            </g>
+                            <line stroke-width="9.72220039" id="connector7pin" y1="-1152.8383" gorn="0.7.0.0.0.0.0.13" x2="1099.9308" stroke="#787878" x1="899.93079" fill="none" style="stroke-linecap:round;stroke-linejoin:round"  y2="-1152.8383"/>
+                            <g id="label5" gorn="0.7.0.0.0.0.0.14" stroke="none" font-size="69.44444275" fill="#8c8c8c" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;" >
+                                <text y="-1128.0343" x="804.3576" id="tspan4907" gorn="0.7.0.0.0.0.0.14.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.44444275;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" >16</text>
+                            </g>
+                            <line stroke-width="9.72220039" id="connector6pin" y1="-952.83826" gorn="0.7.0.0.0.0.0.15" x2="1099.9308" stroke="#787878" x1="899.93091" fill="none" style="stroke-linecap:round;stroke-linejoin:round"  y2="-952.83826"/>
+                            <g id="label4" gorn="0.7.0.0.0.0.0.16" stroke="none" font-size="69.44444275" fill="#8c8c8c" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;" >
+                                <text y="-927.91559" x="804.3576" id="tspan4899" gorn="0.7.0.0.0.0.0.16.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.44444275;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" >14</text>
+                            </g>
+                            <g stroke-width="0" id="text4737" gorn="0.7.0.0.0.0.0.17" stroke="none" class="text" font-size="69.44444275" fill="#8c8c8c" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;" >
+                                <text y="-1781.2714" x="1001.321" id="tspan4735" gorn="0.7.0.0.0.0.0.17.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.44444275;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" >Vin +</text>
+                            </g>
+                            <g stroke-width="0" id="text4741" gorn="0.7.0.0.0.0.0.18" stroke="none" class="text" font-size="69.44444275" fill="#8c8c8c" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;" >
+                                <text y="-1171.5416" x="1.4796748" id="tspan4739" gorn="0.7.0.0.0.0.0.18.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.44444275;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" >N.C.</text>
+                            </g>
+                            <g stroke-width="0" id="text4745" gorn="0.7.0.0.0.0.0.19" stroke="none" class="text" font-size="69.44444275" fill="#8c8c8c" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;" >
+                                <text y="-969.29712" x="1.4796748" id="tspan4743" gorn="0.7.0.0.0.0.0.19.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.44444275;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" >N.C.</text>
+                            </g>
+                            <g stroke-width="0" id="text4749" gorn="0.7.0.0.0.0.0.20" stroke="none" class="text" font-size="69.44444275" fill="#8c8c8c" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;" >
+                                <text y="-969.29712" x="998.89667" id="tspan4747" gorn="0.7.0.0.0.0.0.20.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.44444275;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" >+ Out</text>
+                            </g>
+                            <g stroke-width="0" id="text4753" gorn="0.7.0.0.0.0.0.21" stroke="none" class="text" font-size="69.44444275" fill="#8c8c8c" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;" >
+                                <text y="-1168.4497" x="999.91382" id="tspan4751" gorn="0.7.0.0.0.0.0.21.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.44444275;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" >GND</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

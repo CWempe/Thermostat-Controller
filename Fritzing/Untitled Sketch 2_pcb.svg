@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.861838in' height='1.34277in' viewBox='0 0 62.0524 96.6798' >
+<g partID='854422930'><g transform="matrix(1, 0, 0, 1, 15.0862, 43.6138)">
+ <g  id="copper0">
+  <g  gorn="0.3.0.0.0">
+   <g  id="copper1" gorn="0.3.0.0.0.0">
+    <circle  id="connector5pin" stroke-width="0.9216" gorn="0.3.0.0.0.0.0" stroke="#ffbf00" fill="none" cx="38.9799" cy="23.9261" r="1.2672"/>
+    <circle  id="connector4pin" stroke-width="0.9216" gorn="0.3.0.0.0.0.5" stroke="#ffbf00" fill="none" cx="38.9799" cy="39.2861" r="1.2672"/>
+    <circle  id="connector3pin" stroke-width="0.9216" gorn="0.3.0.0.0.0.4" stroke="#ffbf00" fill="none" cx="-7.10006" cy="39.2861" r="1.2672"/>
+    <circle  id="connector2pin" stroke-width="0.9216" gorn="0.3.0.0.0.0.3" stroke="#ffbf00" fill="none" cx="-7.10006" cy="23.9261" r="1.2672"/>
+    <circle  id="connector6pin" stroke-width="0.9216" gorn="0.3.0.0.0.0.6" stroke="#ffbf00" fill="none" cx="38.9799" cy="-22.1539" r="1.2672"/>
+    <circle  id="connector7pin" stroke-width="0.9216" gorn="0.3.0.0.0.0.7" stroke="#ffbf00" fill="none" style="display:inline;" cx="38.9799" cy="-29.8339" r="1.2672"/>
+    <circle  id="connector1pin" stroke-width="0.9216" gorn="0.3.0.0.0.0.2" stroke="#ffbf00" fill="none" cx="-7.10006" cy="-22.1539" r="1.2672"/>
+    <circle  id="connector0pin" stroke-width="0.9216" gorn="0.3.0.0.0.0.1" stroke="#ffbf00" fill="none" cx="-7.10006" cy="-29.8339" r="1.2672"/>
+   </g>
+  </g>
+ </g>
+</g>
+</g><g partID='854422932'><g transform="matrix(1, 0, 0, 1, 15.0862, 43.6138)">
+ <g  id="copper1">
+  <g  gorn="0.3.0.0.0.0">
+   <circle  id="connector5pin" stroke-width="0.9216" gorn="0.3.0.0.0.0.0" stroke="#ffbf00" fill="none" cx="38.9799" cy="23.9261" r="1.2672"/>
+   <circle  id="connector4pin" stroke-width="0.9216" gorn="0.3.0.0.0.0.5" stroke="#ffbf00" fill="none" cx="38.9799" cy="39.2861" r="1.2672"/>
+   <circle  id="connector3pin" stroke-width="0.9216" gorn="0.3.0.0.0.0.4" stroke="#ffbf00" fill="none" cx="-7.10006" cy="39.2861" r="1.2672"/>
+   <circle  id="connector2pin" stroke-width="0.9216" gorn="0.3.0.0.0.0.3" stroke="#ffbf00" fill="none" cx="-7.10006" cy="23.9261" r="1.2672"/>
+   <circle  id="connector6pin" stroke-width="0.9216" gorn="0.3.0.0.0.0.6" stroke="#ffbf00" fill="none" cx="38.9799" cy="-22.1539" r="1.2672"/>
+   <circle  id="connector7pin" stroke-width="0.9216" gorn="0.3.0.0.0.0.7" stroke="#ffbf00" fill="none" style="display:inline;" cx="38.9799" cy="-29.8339" r="1.2672"/>
+   <circle  id="connector1pin" stroke-width="0.9216" gorn="0.3.0.0.0.0.2" stroke="#ffbf00" fill="none" cx="-7.10006" cy="-22.1539" r="1.2672"/>
+   <circle  id="connector0pin" stroke-width="0.9216" gorn="0.3.0.0.0.0.1" stroke="#ffbf00" fill="none" cx="-7.10006" cy="-29.8339" r="1.2672"/>
+  </g>
+ </g>
+</g>
+</g><g partID='854422931'><g transform="matrix(1, 0, 0, 1, 0.0363724, 72.5739)">
+ <g  id="silkscreen">
+  <g  gorn="0.4.0.0.0">
+   <line  y1="-72.384" id="line2" stroke-width="1.22474" x2="0.576" gorn="0.4.0.0.0.0" stroke="#ffffff" x1="0.576" fill="none" y2="23.616"/>
+   <line  y1="23.616" id="line4" stroke-width="0.979779" x2="62.016" gorn="0.4.0.0.0.1" stroke="#ffffff" x1="0.576" fill="none" y2="23.616"/>
+   <line  y1="23.616" id="line6" stroke-width="1.22474" x2="61.4036" gorn="0.4.0.0.0.2" stroke="#ffffff" x1="61.4036" fill="none" y2="-72.384"/>
+   <line  y1="-72.084" id="line8" stroke-width="0.979779" x2="23.6152" gorn="0.4.0.0.0.3" stroke="#ffffff" x1="0.576" fill="none" y2="-72.084"/>
+   <line  y1="-72.084" id="line10" stroke-width="0.979779" x2="62.016" gorn="0.4.0.0.0.4" stroke="#ffffff" x1="38.9747" fill="none" y2="-72.084"/>
+  </g>
+ </g>
+</g>
+</g></svg>
