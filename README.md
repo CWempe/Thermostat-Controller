@@ -92,9 +92,17 @@ If you have any windows or door contacts connected to your smart home you also m
 
 You can also use a transformation file to display more accurate terms than "ON" and "OFF" for day and night mode.
 
-Finally I renamed some openhab2 classic icons to thermostat*.png/svg.
+Finally I renamed some openhab2 classic icons to thermostat*.png/svg. (see /openhab/icons)
 
-![openhab_screenshot]
+### Example (openHABv1)
+![openhab_screenshot]  
+The current mode is "Nachtabsenkung" (night mode)
+The target mode is set to "Normalbetrieb" (day mode).  
+The override mode is set to "automatic" (this means no override).  
+The window is open.  
+
+While the current mode should be "day mode", because of the target mode, it actually is "night mode", because the window is open.
+Once the window closes the mode changes to "day mode" (target mode).
 
 [breakboard]: Fritzing/Thermostat-Controller_bb.png "breakboard view"
 [thermostat]: photos/Junkers_TRQ21_Thermostat.jpg
