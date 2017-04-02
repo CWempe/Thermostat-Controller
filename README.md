@@ -60,6 +60,8 @@ You can optionally integrate a button to change the current mode without switchi
 ## Circiut Diagram
   
 ![breakboard]
+
+![pcb]
   
 
 ## configure openhab
@@ -85,6 +87,7 @@ While the current mode should be "day mode", because of the target mode, it actu
 Once the window closes the mode changes to "day mode" (target mode).
 
 [breakboard]: Fritzing/Thermostat-Controller_bb.png "breakboard view"
+[pcb]: Fritzing/Thermostat-Controller_pcb.png "pcb view"
 [thermostat]: photos/Junkers_TRQ21_Thermostat.jpg
 [timer_clock]: photos/timer_clock.jpg
 [timer_clock_connector]: photos/timer_clock_connector.jpg
