@@ -42,17 +42,23 @@ when
     Item Window_Bath changed to CLOSED
 then
     logInfo("Therm_Window", "Window_Bath is closed")
-    if ( Therm_Manual.state == "AUTO" ) {
-        logInfo("Therm_Window", "Set Wemos01_Relay1 to " + Therm_Target.state)
-        sendCommand(Wemos01_Relay1, Therm_Target.state)
-    }
-    if ( Therm_Manual.state == "ON" ) {
-        logInfo("Therm_Window", "Set Wemos01_Relay1 to ON")
-        sendCommand(Wemos01_Relay1, ON)
-    }
-    if ( Therm_Manual.state == "OFF" ) {
-        logInfo("Therm_Window", "Set Wemos01_Relay1 to OFF")
-        sendCommand(Wemos01_Relay1, OFF)
+    // Wait a few seconds in case the window is closed only for a brief moment
+    // Some windows need to be closed in transistion between open and tilt.
+    Thread::sleep(5000)
+    // check is windows is still closed
+    if ( Window_Bath.state == CLOSED ) {
+        if ( Therm_Manual.state == "AUTO" ) {
+            logInfo("Therm_Window", "Set Wemos01_Relay1 to " + Therm_Target.state)
+            sendCommand(Wemos01_Relay1, Therm_Target.state)
+        }
+        if ( Therm_Manual.state == "ON" ) {
+            logInfo("Therm_Window", "Set Wemos01_Relay1 to ON")
+            sendCommand(Wemos01_Relay1, ON)
+        }
+        if ( Therm_Manual.state == "OFF" ) {
+            logInfo("Therm_Window", "Set Wemos01_Relay1 to OFF")
+            sendCommand(Wemos01_Relay1, OFF)
+        }
     }
 end
 
