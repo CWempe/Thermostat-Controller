@@ -67,7 +67,7 @@ end
 
 rule therm_manual_auto
 when
-    Item Therm_Manual changed to "AUTO"
+    Item Therm_Manual changed to AUTO
 then
     logInfo("Therm_Manual", "Set Wemos01_Relay1 to " + Therm_Target.state)
     sendCommand(Wemos01_Relay1, Therm_Target.state)
@@ -75,7 +75,7 @@ end
 
 rule therm_manual_day
 when
-    Item Therm_Manual changed to "ON"
+    Item Therm_Manual changed to ON
 then
     logInfo("Therm_Manual", "Set Wemos01_Relay1 to ON")
     sendCommand(Wemos01_Relay1, ON)
@@ -83,7 +83,7 @@ end
 
 rule therm_manual_night
 when
-    Item Therm_Manual changed to "OFF"
+    Item Therm_Manual changed to OFF
 then
     logInfo("Therm_Manual", "Set Wemos01_Relay1 to OFF")
     sendCommand(Wemos01_Relay1, OFF)
