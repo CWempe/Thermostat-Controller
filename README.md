@@ -63,6 +63,28 @@ You can optionally integrate a button to change the current mode without switchi
 
 ![pcb]
   
+## configure Arduino (Sonoff-Tasmota)
+
+Open the web interface of your controller.  
+Click `Configuration` and then `Configure Mode`. Select the `Module Type`.  
+Here : "18 Wemos D1 mini".
+
+Define the Sensors for the GPIOs.
+
+* GPIO12: "17 Relay1"
+* GPIO13: "09 Switch1" (optional, if you add a switch to the project)
+* GPIO14: "04 DS18x20"
+
+Click `Save`
+
+If you added a switch to your project, execute the following commands in the `Console` in the web interface.
+
+```
+SwitchMode1 2
+SwitchTopic1 wemos01-switch
+```
+
+See [this page](https://github.com/arendst/Sonoff-Tasmota/wiki/Understanding-SwitchMode-and-SwitchTopic) for more details.
 
 ## configure openhab
 
