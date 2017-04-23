@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="0.609722in" height="0.412861in" version="1.2" id="svg66" gorn="0"  x="0in" y="0in" viewBox="0 0 43.9 29.726">
+    <desc >
+        <referenceFile >RECOM_R-78Bxx_schem.svg</referenceFile>
+    </desc>
+    <metadata id="metadata72" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs70" />
+    <g id="g64" gorn="0.3" partID="854559730" >
+        <g id="schematic" gorn="0.3.0" >
+            <rect stroke="none" height="21.599899" width="28.8001" class="interior rect" id="rect2" gorn="0.3.0.0"  x="7.5500102" y="0.57599801" stroke-width="0" fill="#ffffff"/>
+            <text stroke="none" id="label" class="text" gorn="0.3.0.1" style="font-family:Droid Sans;text-anchor:middle;"  x="21.782013" font-size="4.25002003" y="12.226542" stroke-width="0" fill="#000000">R-78Bxx</text>
+            <line x2="36.350201" stroke="#000000" class="other" id="line5" y1="22.1759" gorn="0.3.0.2" x1="7.5500102" style="stroke-linecap:round"  stroke-width="0.900002" y2="22.1759"/>
+            <line x2="36.350201" stroke="#000000" class="other" id="line7" y1="22.1759" gorn="0.3.0.3" x1="36.350201" style="stroke-linecap:round"  stroke-width="0.900002" y2="0.57599801"/>
+            <line x2="7.5500102" stroke="#000000" class="other" id="line9" y1="0.57599801" gorn="0.3.0.4" x1="36.350201" style="stroke-linecap:round"  stroke-width="0.900002" y2="0.57599801"/>
+            <line x2="7.5500102" stroke="#000000" class="other" id="line11" y1="0.57599801" gorn="0.3.0.5" x1="7.5500102" style="stroke-linecap:round"  stroke-width="0.900002" y2="22.1759"/>
+            <line x2="7.5500102" stroke="#787878" connectorname="IN" id="connector1pin" class="pin" y1="7.77598" gorn="0.3.0.6" x1="0.34999999" style="stroke-linecap:round"  stroke-width="0.69999999" y2="7.77598"/>
+            <g stroke="none" height="0.000283464" width="0.000283465" id="connector1terminal" class="terminal" gorn="0.3.0.7"  x="0.35" y="7.77598" stroke-width="0" fill="none"/>
+            <text stroke="none" class="text" id="text15" gorn="0.3.0.8" style="font-family:Droid Sans;text-anchor:middle;"  x="3.95" font-size="2.50001001" y="6.7259698" stroke-width="0" fill="#8c8c8c">1</text>
+            <text stroke="none" class="text" id="text17" gorn="0.3.0.9" style="font-family:Droid Sans;text-anchor:start;"  x="9.6500101" font-size="3.5" y="8.4759598" stroke-width="0" fill="#787878">+Vin</text>
+            <line x2="21.950001" stroke="#787878" connectorname="GND" id="connector0pin" class="pin" y1="29.3759" gorn="0.3.0.10" x1="21.950001" style="stroke-linecap:round"  stroke-width="0.69999999" y2="22.1759"/>
+            <g stroke="none" height="0.000283464" width="0.000283465" id="connector0terminal" class="terminal" gorn="0.3.0.11"  x="21.95" y="29.3759" stroke-width="0" fill="none"/>
+            <g transform="translate(20.9001,25.7759)" >
+                <g >
+                    <g >
+                        <g id="g37" gorn="0.3.0.12.0.0.0" >
+                            <g id="g35" gorn="0.3.0.12.0.0.0.0" >
+                                <g id="g33" gorn="0.3.0.12.0.0.0.0.0" >
+                                    <g id="g31" gorn="0.3.0.12.0.0.0.0.0.0" >
+                                        <g transform="rotate(-90)" >
+                                            <g >
+                                                <g >
+                                                    <g id="g29" gorn="0.3.0.12.0.0.0.0.0.0.0.0.0.0" >
+                                                        <g id="g27" gorn="0.3.0.12.0.0.0.0.0.0.0.0.0.0.0" >
+                                                            <g id="g25" gorn="0.3.0.12.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                <g id="g23" gorn="0.3.0.12.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                    <text stroke="none" class="text" id="text21" gorn="0.3.0.12.0.0.0.0.0.0.0.0.0.0.0.0.0.0" style="font-family:Droid Sans;text-anchor:middle;"  x="0" font-size="2.50001001" y="0" stroke-width="0" fill="#8c8c8c">2</text>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(22.6501,20.076)" >
+                <g >
+                    <g >
+                        <g id="g55" gorn="0.3.0.13.0.0.0" >
+                            <g id="g53" gorn="0.3.0.13.0.0.0.0" >
+                                <g id="g51" gorn="0.3.0.13.0.0.0.0.0" >
+                                    <g id="g49" gorn="0.3.0.13.0.0.0.0.0.0" >
+                                        <g transform="rotate(-90)" >
+                                            <g >
+                                                <g >
+                                                    <g id="g47" gorn="0.3.0.13.0.0.0.0.0.0.0.0.0.0" >
+                                                        <g id="g45" gorn="0.3.0.13.0.0.0.0.0.0.0.0.0.0.0" >
+                                                            <g id="g43" gorn="0.3.0.13.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                <g id="g41" gorn="0.3.0.13.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                    <text stroke="none" class="text" id="text39" gorn="0.3.0.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0" style="font-family:Droid Sans;text-anchor:start;"  x="0" font-size="3.5" y="0" stroke-width="0" fill="#787878">GND</text>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <line x2="36.350201" stroke="#787878" connectorname="OUT" id="connector2pin" class="pin" y1="7.77598" gorn="0.3.0.14" x1="43.550201" style="stroke-linecap:round"  stroke-width="0.69999999" y2="7.77598"/>
+            <g stroke="none" height="0.000283464" width="0.000283465" id="connector2terminal" class="terminal" gorn="0.3.0.15"  x="43.5502" y="7.77598" stroke-width="0" fill="none"/>
+            <text stroke="none" class="text" id="text59" gorn="0.3.0.16" style="font-family:Droid Sans;text-anchor:middle;"  x="39.950199" font-size="2.50001001" y="6.7259698" stroke-width="0" fill="#8c8c8c">3</text>
+            <text stroke="none" class="text" id="text61" gorn="0.3.0.17" style="font-family:Droid Sans;text-anchor:end;"  x="34.25" font-size="3.5" y="8.4759598" stroke-width="0" fill="#787878">+Vout</text>
+        </g>
+    </g>
+</svg>

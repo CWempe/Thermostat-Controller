@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="0.45275587in" height="0.73386496in" version="1.2" id="svg40" gorn="0"  x="0in" y="0in" viewBox="0 0 32.598471 52.838229">
+    <desc >
+        <referenceFile >RECOM_R-78Bxx.svg</referenceFile>
+    </desc>
+    <metadata id="metadata46" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs44" />
+    <g transform="translate(2.6199355,7.9700972)" >
+        <g >
+            <g >
+                <g id="g38" gorn="0.3.0.0.0" partID="854559070" >
+                    <g id="breadboard" gorn="0.3.0.0.0.0" >
+                        <line x2="6.48072" stroke="#8c8c8c" id="connector0leg" y1="44.868198" gorn="0.3.0.0.0.0.0" x1="6.48072" style="stroke-linecap:round"  stroke-width="2.16000009" fill="none" y2="52.068199"/>
+                        <line x2="13.6793" stroke="#8c8c8c" id="connector1leg" y1="44.868198" gorn="0.3.0.0.0.0.1" x1="13.6793" style="stroke-linecap:round"  stroke-width="2.16000009" fill="none" y2="52.068199"/>
+                        <line x2="20.8778" stroke="#8c8c8c" id="connector2leg" y1="44.868198" gorn="0.3.0.0.0.0.2" x1="20.8778" style="stroke-linecap:round"  stroke-width="2.16000009" fill="none" y2="52.068199"/>
+                        <rect height="11.3666" width="2.1600001" id="rect8" gorn="0.3.0.0.0.0.3" style="fill:#8c8c8c"  x="19.7978" y="33.501598"/>
+                        <rect height="11.3666" width="2.1600001" id="rect6" gorn="0.3.0.0.0.0.4" style="fill:#8c8c8c"  x="12.5993" y="33.501598"/>
+                        <rect height="11.3666" width="2.1600001" id="rect4" gorn="0.3.0.0.0.0.5" style="fill:#8c8c8c"  x="5.4007201" y="33.501598"/>
+                        <rect height="0.72000003" width="2.1600001" id="connector2pin" gorn="0.3.0.0.0.0.6" style="fill:none"  x="19.7978" y="43.200001"/>
+                        <rect height="0.72000003" width="2.1600001" id="connector1pin" gorn="0.3.0.0.0.0.7" style="fill:none"  x="12.5993" y="43.200001"/>
+                        <rect height="0.72000003" width="2.1600001" id="connector0pin" gorn="0.3.0.0.0.0.8" style="fill:none"  x="5.4007201" y="43.200001"/>
+                        <polygon id="polygon21" gorn="0.3.0.0.0.0.9" style="fill:#8c8c8c"  points="3.96072,32.0364 9.00072,32.0364 9.00072,40.806 7.38792,41.526 5.57352,41.526 3.96072,40.806 "/>
+                        <polygon id="polygon23" gorn="0.3.0.0.0.0.10" style="fill:#8c8c8c"  points="11.1593,32.0364 16.1993,32.0364 16.1993,40.806 14.5865,41.526 12.7728,41.526 11.1593,40.806 "/>
+                        <polygon id="polygon25" gorn="0.3.0.0.0.0.11" style="fill:#8c8c8c"  points="18.3593,32.0364 23.3978,32.0364 23.3978,40.806 21.785,41.526 19.9721,41.526 18.3593,40.806 "/>
+                        <rect stroke="none" width="32.598473" height="49.606373" fill-opacity="1" id="rect4523" gorn="0.3.0.0.0.0.12" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;"  x="-2.6199355" stroke-opacity="1" y="-7.9701586" stroke-width="0.41028056" fill="#1e1223"/>
+                        <g id="g4651" gorn="0.3.0.0.0.0.13" >
+                            <g id="g4635" gorn="0.3.0.0.0.0.13.0" >
+                                <rect stroke="none" width="7.0866246" height="0.85039496" fill-opacity="1" id="rect4527" gorn="0.3.0.0.0.0.13.0.0" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;"  x="1.726799" stroke-opacity="1" y="7.4647202" stroke-width="0.21245393" fill="#fdc300"/>
+                                <rect stroke="none" width="7.0866241" height="0.8503949" fill-opacity="1" id="rect4527-3" gorn="0.3.0.0.0.0.13.0.1" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;"  x="10.135989" stroke-opacity="1" y="7.4647202" stroke-width="0.21245393" fill="#004d9a"/>
+                                <rect stroke="none" width="7.0866241" height="0.8503949" fill-opacity="1" id="rect4527-7" gorn="0.3.0.0.0.0.13.0.2" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;"  x="18.545179" stroke-opacity="1" y="7.4647202" stroke-width="0.21245393" fill="#c81415"/>
+                                <g transform="scale(1.0445368,0.95736216)" >
+                                    <g >
+                                        <g >
+                                            <g stroke="none" xml:space="preserve" fill-opacity="1" id="text4578" gorn="0.3.0.0.0.0.13.0.3.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Malgun Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;"  stroke-opacity="1" font-size="49.97127914" stroke-width="0.50652725" xmlns:xml="http://www.w3.org/XML/1998/namespace" fill="#004d9a">
+                                                <text fill-opacity="1" id="tspan4576" gorn="0.3.0.0.0.0.13.0.3.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;"  x="0.89000422" font-size="6.75369692" y="14.993283" stroke-width="0.405222" fill="#004d9a">RECOM</text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="scale(1.0916984,0.9160039)" >
+                                <g >
+                                    <g >
+                                        <g stroke="none" xml:space="preserve" fill-opacity="1" id="text4578-1" gorn="0.3.0.0.0.0.13.1.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;"  stroke-opacity="1" font-size="10.45152378" stroke-width="0.52939731" xmlns:xml="http://www.w3.org/XML/1998/namespace" fill="#004d9a">
+                                            <text fill-opacity="1" id="tspan4576-1" gorn="0.3.0.0.0.0.13.1.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;"  x="0.88562208" font-size="6.27091408" y="21.899626" stroke-width="0.423518" fill="#ffffff">R-78Bxx</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="g4628" gorn="0.3.0.0.0.0.13.2" >
+                                <g transform="scale(1.0916984,0.9160039)" >
+                                    <g >
+                                        <g >
+                                            <g stroke="none" xml:space="preserve" fill-opacity="1" id="text4578-1-2" gorn="0.3.0.0.0.0.13.2.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;"  stroke-opacity="1" font-size="10.45152378" stroke-width="0.52939731" xmlns:xml="http://www.w3.org/XML/1998/namespace" fill="#004d9a">
+                                                <text fill-opacity="1" id="tspan4576-1-1" gorn="0.3.0.0.0.0.13.2.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;"  x="20.001904" font-size="3.00000453" y="26.630381" stroke-width="0.423518" fill="#ffffff">Pb</text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <ellipse ry="2.5428543" stroke="#ffffff" cx="23.806736" fill-opacity="1" id="path4618" gorn="0.3.0.0.0.0.13.2.1" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;"  cy="23.45599" stroke-opacity="1" stroke-width="0.37500057" fill="none" rx="2.6616793"/>
+                                <path stroke="#ffffff" id="path4620" gorn="0.3.0.0.0.0.13.2.2" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" d="m 21.905538,25.333426 c 3.849929,-3.517219 3.849929,-3.517219 3.849929,-3.517219 v 0 0"  stroke-opacity="1" stroke-width="0.45000067" fill="none"/>
+                            </g>
+                            <circle stroke="none" cx="3.1653707" fill-opacity="1" id="path4622" gorn="0.3.0.0.0.0.13.3" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;"  cy="23.583391" stroke-opacity="1" stroke-width="0.37911767" fill="#ffffff" r="1.417325"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

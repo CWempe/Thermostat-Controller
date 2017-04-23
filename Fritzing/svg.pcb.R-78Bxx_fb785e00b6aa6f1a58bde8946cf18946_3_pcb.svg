@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="0.60000002in" height="0.89999998in" version="1.2" id="svg48" gorn="0"  x="0in" y="0in" viewBox="0 0 43.200001 64.799998">
+    <desc >
+        <referenceFile >RECOM_R-78Bxx_pcb2.svg</referenceFile>
+    </desc>
+    <metadata id="metadata54" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs52" />
+    <g transform="translate(7.2000008,48.008611)" >
+        <g >
+            <g >
+                <g id="g8" gorn="0.3.0.0.0" style="display:inline" partID="854559730" >
+                    <g id="g4538" gorn="0.3.0.0.0.0" >
+                        <g id="copper0" gorn="0.3.0.0.0.0.0" >
+                            <circle stroke="#f7bd13" cx="14.400001" connectorname="IN"  cy="9.5759993" stroke-width="1.24668002" fill="none" r="2.0406599"/>
+                            <path stroke="none" id="connector0pad" gorn="0.3.0.0.0.0.0.1" d="m 11.736,6.9119994 h 5.328 v 5.3279996 h -5.328 z m 1.24668,2.664 a 1.417325,1.417325 0 1 0 2.83465,0 1.417325,1.417325 0 1 0 -2.83465,0 z"  stroke-width="0" fill="#f7bd13"/>
+                            <circle stroke="#f7bd13" cx="7.2000003" connectorname="GND" id="connector1pad" gorn="0.3.0.0.0.0.0.2"  cy="9.5759993" stroke-width="1.24668002" fill="none" r="2.0406599"/>
+                            <circle stroke="#f7bd13" cx="21.6" connectorname="OUT" id="connector2pad" gorn="0.3.0.0.0.0.0.3"  cy="9.5759993" stroke-width="1.24668002" fill="none" r="2.0406599"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0,44.660412)" >
+        <g >
+            <g >
+                <g id="g46" gorn="0.4.0.0.0" partID="854559731" >
+                    <g transform="translate(5.3007608,0.08711297)" >
+                        <g >
+                            <g >
+                                <g id="silkscreen" gorn="0.4.0.0.0.0.0.0.0" >
+                                    <line x2="0.32002911" stroke="#f0f0f0" class="other" id="line31" y1="8.6360359" gorn="0.4.0.0.0.0.0.0.0.0" x1="32.278152" style="stroke-linecap:round"  stroke-width="0.60675991" y2="8.6360359"/>
+                                    <line x2="0.30810034" stroke="#f0f0f0" class="other" id="line33" y1="8.6395578" gorn="0.4.0.0.0.0.0.0.0.1" x1="0.30810034" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"  stroke-width="0.59131795" y2="-40.391163"/>
+                                    <line x2="32.290817" stroke="#f0f0f0" class="other" id="line37" y1="-40.392361" gorn="0.4.0.0.0.0.0.0.0.2" x1="0.34044471" style="stroke-linecap:round"  stroke-width="0.60668629" y2="-40.392361"/>
+                                    <line x2="32.285973" stroke="#f0f0f0" class="other" id="line41" y1="-40.391594" gorn="0.4.0.0.0.0.0.0.0.3" x1="32.285973" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"  stroke-width="0.59974098" y2="8.6309605"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
