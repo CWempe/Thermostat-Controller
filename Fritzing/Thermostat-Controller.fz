@@ -9613,7 +9613,7 @@
                     </connectors>
                 </breadboardView>
                 <pcbView layer="copper0trace" bottom="true">
-                    <geometry z="6.50011" x="27.1412" y="27.1412" x1="0" y1="0" x2="-0.141163" y2="-18.1412" wireFlags="4"/>
+                    <geometry z="6.50011" x="27.0283" y="35.9418" x1="0" y1="0" x2="-0.0282642" y2="-26.9418" wireFlags="4"/>
                     <wireExtras mils="24" color="#f28a00" opacity="1" banded="0"/>
                     <connectors>
                         <connector connectorId="connector0" layer="copper0trace">
@@ -9775,8 +9775,8 @@
                     </connectors>
                 </breadboardView>
                 <pcbView layer="copper0" bottom="true">
-                    <geometry z="6.00168" x="40.05" y="17.55"/>
-                    <titleGeometry visible="true" x="41.4889" y="37.9894" z="13.0017" xOffset="1.43891" yOffset="20.4394" textColor="#444444" fontSize="5">
+                    <geometry z="6.00168" x="40.05" y="26.55"/>
+                    <titleGeometry visible="true" x="41.4889" y="46.9894" z="13.0017" xOffset="1.43891" yOffset="20.4394" textColor="#444444" fontSize="5">
                         <displayKey key=""/>
                     </titleGeometry>
                     <connectors>
@@ -10032,7 +10032,7 @@
             <title>Wire7803</title>
             <views>
                 <pcbView layer="copper0trace" bottom="true">
-                    <geometry z="7.00178" x="-18" y="21.8338" x1="0" y1="0" x2="9.05236" y2="5.30733" wireFlags="4"/>
+                    <geometry z="7.00178" x="-18" y="21.8338" x1="0" y1="0" x2="9.08642" y2="14.108" wireFlags="4"/>
                     <wireExtras mils="24" color="#f28a00" opacity="1" banded="0"/>
                     <connectors>
                         <connector connectorId="connector0" layer="copper0trace">
@@ -10165,7 +10165,7 @@
             <title>Wire7864</title>
             <views>
                 <pcbView layer="copper0trace" bottom="true">
-                    <geometry z="7.00177" x="53.9841" y="45.0364" x1="0" y1="0" x2="0.0159284" y2="-18.0364" wireFlags="4"/>
+                    <geometry z="7.00177" x="53.9841" y="45.0364" x1="0" y1="0" x2="0.0159284" y2="-9.03644" wireFlags="4"/>
                     <wireExtras mils="24" color="#f28a00" opacity="1" banded="0"/>
                     <connectors>
                         <connector connectorId="connector0" layer="copper0trace">
@@ -10227,7 +10227,7 @@
             <title>Wire7869</title>
             <views>
                 <pcbView layer="copper0trace" bottom="true">
-                    <geometry z="7.00178" x="-8.94764" y="27.1412" x1="0" y1="0" x2="36.0888" y2="0" wireFlags="4"/>
+                    <geometry z="7.00178" x="-8.91358" y="35.9418" x1="0" y1="0" x2="35.9418" y2="0" wireFlags="4"/>
                     <wireExtras mils="24" color="#f28a00" opacity="1" banded="0"/>
                     <connectors>
                         <connector connectorId="connector0" layer="copper0trace">
@@ -10301,7 +10301,7 @@
             <title>Wire7886</title>
             <views>
                 <pcbView layer="copper0trace" bottom="true">
-                    <geometry z="7.00178" x="27.1412" y="27.1412" x1="0" y1="0" x2="17.8588" y2="-0.141163" wireFlags="4"/>
+                    <geometry z="7.00178" x="27.0283" y="35.9418" x1="0" y1="0" x2="17.9717" y2="0.0581597" wireFlags="4"/>
                     <wireExtras mils="24" color="#f28a00" opacity="1" banded="0"/>
                     <connectors>
                         <connector connectorId="connector0" layer="copper0trace">
@@ -10576,7 +10576,7 @@
             <title>Wire7989</title>
             <views>
                 <pcbView layer="copper0trace" bottom="true">
-                    <geometry z="7.00191" x="45" y="9" x1="0" y1="0" x2="9" y2="18" wireFlags="4"/>
+                    <geometry z="7.00191" x="45" y="9" x1="0" y1="0" x2="9" y2="27" wireFlags="4"/>
                     <wireExtras mils="24" color="#f28a00" opacity="1" banded="0"/>
                     <connectors>
                         <connector connectorId="connector0" layer="copper0trace">
