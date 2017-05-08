@@ -59,6 +59,8 @@ You can optionally integrate a button to change the current mode without switchi
   
 ## Circiut Diagram
   
+![ext_comopnents]
+
 ![breakboard]
 
 ![pcb]
@@ -108,6 +110,7 @@ The window is open.
 While the current mode should be "day mode", because of the target mode, it actually is "night mode", because the window is open.
 Once the window closes the mode changes to "day mode" (target mode).
 
+[ext_comopnents]: Fritzing/Thermostat-Controller_external_components_bb.png "external components"
 [breakboard]: Fritzing/Thermostat-Controller_bb.png "breakboard view"
 [pcb]: Fritzing/Thermostat-Controller_pcb.png "pcb view"
 [thermostat]: photos/Junkers_TRQ21_Thermostat.jpg
