@@ -105,7 +105,7 @@ You can also use a transformation file to display more accurate terms than "ON" 
 
 Finally I renamed some openhab2 classic icons to thermostat*.png/svg. (see /openhab/icons)
 
-### Example (openHABv1)
+### Example (openHAB)
 ![openhab_screenshot]  
 The current mode is "Nachtabsenkung" (night mode)
 The target mode is set to "Normalbetrieb" (day mode).  
