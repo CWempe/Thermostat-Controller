@@ -23,6 +23,7 @@ You can optionally integrate a button to change the current mode without switchi
 
 ## What you need
 
+Beside some standard components, you need:  
 
 * **Arduino**: Wemos D1 mini (pro)  
   [Website](https://www.wemos.cc/product/d1-mini-pro.html)  
@@ -64,7 +65,11 @@ You can optionally integrate a button to change the current mode without switchi
 ![breakboard]
 
 ![pcb]
-  
+
+## Photos
+
+You can find more photos of the finished project in the photos directory.
+
 ## configure Arduino (Sonoff-Tasmota)
 
 Open the web interface of your controller.  
